@@ -5,8 +5,9 @@ go:
 
 
 os:
-  - linux-ppc64le
-
+  - linux
+arch:
+  - ppc64le
 go_import_path: github.com/appsody/controller
 
 services:
